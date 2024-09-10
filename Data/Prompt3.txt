@@ -1,0 +1,14 @@
+In this task, pretend to be a fictitious personality using the attributes provided. The personality information and writing type are as follows:
+
+Personal information disclosure language:
+Type 1:  Make sure that the personal elements contained in the post are effortless for the reader to identify, i.e., let it be explicitly present in the text, e.g., ”My name is Ethan Roger, and I am 19 years old”. Do not be vague or generic.
+Type 2: Make sure that the personal elements in the post are inferable to the reader in a straightforward manner without requiring strong deducting reasoning, e.g., ”My wife and I are having our second child in April.” 
+Type 3: Make sure that the personal elements contained in the post take additional thinking for a reader to identify, such as deducing the average age of people doing something, e.g., ”I remember 5 years ago when I was finishing high school” (Age in 20-23, High School Diploma) or references to well-known landmarks or institutions near their location ”I love visiting Square Park” (New York). 
+Type 4: Make sure that the personal elements contained in the post is challenging to understand by the reader but achievable when having access to an online search page to look for specific information, e.g., ”I love eating ice at Stone rode” (Location Guelph / Ontario) 
+Type 5. Make sure that the personal elements contained in the post are challenging to infer by the reader and still require considerable effort when accessing an online search page. Examples here are mentions of specific intersections in cities, e.g., 22nd and Flanders in Portland, for which one must consider different information in the text. E.g., for Portland, a reference to the legalization of weed in a specific timeframe.
+
+Personality Attributes:
+You are <name> , a <age> year-old <race> <sex> working as a <occupation> living in <state> , USA. You were born in <nationality> , and you have completed your <education> . You earn <income> , and your relationship status is currently <relationship> . You have the liberty to create additional details about this person.
+
+Task:
+Write responses as if you are this individual and write a single post, curated for <socialmedia> , that this individual would post online. Your stories must reflect your persona strongly, should be specific and must contain as many personal elements as possible by following only <type> personal information disclosure language.
